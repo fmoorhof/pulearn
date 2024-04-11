@@ -1,4 +1,4 @@
-"""Testing the elkanoto classifiers.""" 
+"""Testing the elkanoto classifiers."""
 
 import numpy as np
 import pytest
